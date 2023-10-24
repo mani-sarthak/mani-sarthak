@@ -9,4 +9,4 @@ I am Mani Sarthak 🙋🏻‍♂️, an aspiring coder (incoming SWE intern @ Mi
 
 
 
-![mani-sarthak's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=chinmaymittal&show_icons=true&locale=en&layout=compact)
+![mani-sarthak's languages used](https://github-readme-stats.vercel.app/api/top-langs?username=mani-sarthak&show_icons=true&locale=en&layout=compact)
